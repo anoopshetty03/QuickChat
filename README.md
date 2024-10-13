@@ -7,3 +7,7 @@
 ## Flow Diagram
 
 ![Flow Diagram](FlowDiagram.png)
+
+## Architectural Diagram
+
+![Architectural Diagram](ArchitecturalDiagram.png)
